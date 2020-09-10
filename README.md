@@ -1,5 +1,5 @@
 # Web-Design-for-Everybody-Capstone
-##Instructions
+## Instructions
 Please upload the following information to help us assess your work:
 
 1) A video and/or
